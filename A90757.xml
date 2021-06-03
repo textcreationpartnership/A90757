@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deliciæ musicæ being, a collection of the newest and best songs, with the dialogues in the last new play call'd (Love's a jest) sett by Mr. John Eccles. Sung at His Majesties theatres. Most of the songs within the compass of the flute. With a thorow-bass, for the theorbo-lute, bass-viol, harpsichord, or organ. Composed by several of the best masters. The second book of the second volume.</title>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90757</idno><idno type="EEBO-CITATION">99899443</idno>
+  <idno type="VID">153487</idno>
+  <idno type="EEBO-PROQUEST">2240868345</idno>
+  
+            <idno type="STC">Wing P2435</idno>
+            <idno type="STC">ESTC R230095</idno>
+            <idno type="PROQUEST">99899443</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899443e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Deliciæ musicæ being, a collection of the newest and best songs, with the dialogues in the last new play call'd (Love's a jest) sett by Mr. John Eccles. Sung at His Majesties theatres. Most of the songs within the compass of the flute. With a thorow-bass, for the theorbo-lute, bass-viol, harpsichord, or organ. Composed by several of the best masters. The second book of the second volume.</title>
+                  <author>Playford, Henry, b. 1657.</author>
+                  <author>Eccles, John, d. 1735.</author>
+                  <author>Hove, Frederick Hendrick van, 1628?-1698, engraver.</author>
+               </titleStmt>
+               <extent>[2], 26 p. : music  </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Heptinstall, for Henry Playford at his shop in the Temple-Change, Fleetstreet, where the first volume is to be had; also a new book for the flute, being the best and easiest instructions yet publish'd. And sold at Oxford by Francis Dollife book-binder, who sells all other musick-books,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below imprint on title page: Price one shilling six pence.</note>
+                  <note>With title page vignettes, signed: F.H. Van. Hove. Sculp:.</note>
+                  <note>Includes printed music.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Songs, English --  17th century.</term>
+               <term type="topical_term">Music --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153487:1"/>
+            <p>DELICIAE MUSICAE: BEING, A Collection of the newest and best SONGS, With the Dialogues in the last New Play call'd <hi>(Love</hi>'s <hi>a Jest)</hi> Sett by Mr. <hi>John Eccles.</hi> Sung at His <hi>Majesties Theatres.</hi> Most of the Songs within the Compass of the <hi>Flute.</hi>
+            </p>
+            <p>WITH A Thorow-Bass, for the <hi>Theorbo-Lute, Bass-Viol, Harpsichord,</hi> or <hi>Organ.</hi>
+            </p>
+            <p>Composed by several of the Best Masters.</p>
+            <p>The Second Book of the Second Volume.</p>
+            <figure>
+               <figDesc>two musicians</figDesc>
+               <signed>F. H. van. Hove. Sculp</signed>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Heptinstall,</hi> for <hi>Henry Playford</hi> at his Shop in the <hi>Temple-Change, Fleetstreet,</hi> where the first Volume is to be had; also a New Book for the <hi>Flute,</hi> being the Best and Easiest Instructions yet Publish'd. And Sold at <hi>Oxford</hi> by <hi>Francis Dollife</hi> Book-binder, who Sells all other Musick-Books. 1696.</p>
+            <p>Price One Shilling six Pence.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:153487:2"/>
+            <head>A Table of the <hi>SONGS</hi> contain'd in this Book.</head>
+            <list>
+               <head>C</head>
+               <item>Come <hi>Hodge,</hi> come <hi>Robin,</hi> come <hi>John, Page. 11</hi>
+               </item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>Fly from my sight fly far away, 7</item>
+               <item>From <hi>Aberdeen</hi> to <hi>Edinbrough,</hi> 25</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>Hark you Madam can't I move you, 2</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>Mortals learn you Lives to measure, 1</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>Pretty, pretty Miss let's talk together, <hi>Page.</hi> 21</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>Shou'd I not lead a happy life, <hi>(hick)</hi> 16</item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>What differing forms does Love obtrude, 26</item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Vocal and Instrumental <hi>Musick</hi> lately Printed and Reprinted with large Additions, for <hi>Henry Playford</hi> at his Shop in the <hi>Temple-Change, Fleetstreet.</hi>
+            </head>
+            <p>
+               <hi>HArmonia Sacra,</hi> in 2 Books, containing Divine <hi>Hymns</hi> and <hi>Dialogues</hi> lately set to Musick by Dr. <hi>John Blow,</hi> and Mr. <hi>Henry Purcell,</hi> and other Eminent Masters. Price Bound of both Books 15 Shillings, the Second Book Sticht 4 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Deliciae Musicae,</hi> in 4 Books, with Three <hi>Elegies</hi> on our late Queen, being the first Volume, Contains most of the Newest and Best Songs, by the late Famous Mr. <hi>Henry Purcell.</hi> The Price of the Volume Sticht, 5 <hi>s.</hi>
+            </p>
+            <p>The whole Book of <hi>Psalms</hi> in 3 Parts, by <hi>John Playford,</hi> as they are Sung in Churches: Printed for the use of several Masters in most Countries, who teach the same. The <hi>2d.</hi> Edition in 8<seg rend="sup">o</seg>. Price Bound 5 <hi>s.</hi>
+            </p>
+            <p>The <hi>Introduction to Musick,</hi> with Mr. <hi>Purcell</hi>'s Addition, being the best Rules for Composition, Price bound 2 <hi>s.</hi>
+            </p>
+            <p>The New <hi>Treasury of Musick,</hi> in Fol. being the best Collection of Song-Books for this 20 Years last past. Price Bound 25 <hi>s.</hi>
+            </p>
+            <p>The <hi>2d.</hi> Book of the <hi>Pleasant Musical Companion,</hi> being a Choice Collection of <hi>Catches</hi> in 3 and 4 Parts, to which is added several Songs for Two Voices, by Mr. <hi>Henry Purcell,</hi> and other Eminent Masters. Price Stitcht 2 <hi>s.</hi>
+            </p>
+            <div type="part">
+               <head>INSTRUMENTAL.</head>
+               <p>
+                  <hi>Apollo</hi>'s <hi>Banquet,</hi> the First and Second Parts containing above 300 of the Choichest Tunes, with the plainest In<g ref="char:EOLhyphen"/>structions for beginners. The First and Second parts of the <hi>Division Violin.</hi> The First and Second Consorts of Mr. <hi>Tho. Farmers,</hi> in 4 Parts. The <hi>Dancing Master,</hi> with the Tunes to each Dance, and Directions for each Coun<g ref="char:EOLhyphen"/>try Dance, the <hi>9th.</hi> Edition. The <hi>Sprightly Companion,</hi> for the French Hautboy being all the Foreign Marches. Price 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>ADVERTISEMENTS.</head>
+               <p>The Second Part of the <hi>Dancing Master,</hi> containing 24 New Country Dances never before Printed and sold by themselves Sticht 1 <hi>s.</hi> or Bound with the first Part 3 <hi>s.</hi>
+               </p>
+               <p>A New Book for the Flute, being the plainest and easiest Instructions for beginners with the newest and pro<g ref="char:EOLhyphen"/>perest Tunes yet Printed.</p>
+               <p>By reason of the small Incouragement, and for the more Compleat Printing of that Excellent Master, Mr. <hi>Henry Purcell</hi>'s Vocal Musick in 2 and 3 Parts, a longer time is given to Subscribers, hoping between this time and the <hi>12th.</hi> of <hi>October</hi> next, to meet with great Incouragement; Subscriptions will be taken till then, and the Book may be delivered to all Ladies and Gentlemen at <hi>Michaelmass</hi> Term next. Proposals also by Madam <hi>Purcell</hi> for Printing the Instrumental Musick by her late Husband Mr. <hi>Henry Purcell,</hi> are to be had by <hi>Henry Playford</hi> at his Shop in the <hi>Temple-Change, Fleetstreet.</hi> A General Catalogue of all the Musick-Books sold at the said place will be speedi<g ref="char:EOLhyphen"/>ly published in print.</p>
+               <p>A <hi>Pastorall</hi> on Mr. <hi>Purcell,</hi> by <hi>J. G. M. A.</hi> Price Sticht 6 <hi>d.</hi>
+               </p>
+               <p>The <hi>Parallel,</hi> an Essay on Friendship, Love and Mariage, by Sir <hi>H. S.</hi> Price Sticht 6 <hi>d.</hi>
+               </p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb n="1" facs="tcp:153487:2"/>
+            <head>A Song in <hi>(Love</hi>'s <hi>a Jest).</hi>
+            </head>
+            <byline>Sett by Mr. <hi>John Eccles.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">M</seg>ORTALS learn your Lives to measure, not by length of time but pleasure; Now the hours in╌vite com╌ply, whilst you I'd╌ly pause they fly; b'est whilst a nim╌ble pace they keep, but in torment, in torment when they creep. Mortals learn your lives to measure, not by length of time but pleasure; soon your Spring must have a fall, loosing Youth is loosing all, then you'l ask but none will give, and may linger but not live.</p>
+            <stage>End with the first Strain.</stage>
+         </div>
+         <div type="song">
+            <pb n="2" facs="tcp:153487:3"/>
+            <head>A Dialogue in <hi>(Love</hi>'s <hi>a Jest)</hi> between Mr. <hi>Bowman</hi> and Mrs. <hi>Bracegirdle.</hi>
+            </head>
+            <byline>Sett to Musick by Mr. <hi>John Eccles.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> HArk you Madam, ca'nt I move you, why the Devil, why the Devil doe you run, han't I told you twice I Love you, han't I told you twice I Love you, come, come, come then, Kiss, Kiss, Kiss me, Kiss, Kiss, Kiss me or I'me gone. Go, go, go, nay pish, prithee go I hate a Rakish Lover; nay do not, do not discom╌pose my Dress, good, good fa╌miliar Spark give over, give over, pray give over, how on quality you press, how on quali╌ty you press, nay prithee, prithee go, nay
+<pb n="3" facs="tcp:153487:3"/> prithee, prithee go, I hate a Rakeish Lover, nay Lover.</p>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> From the Countess to the Citt, ev'ry Beauty for me dyes, Damme why shou'd I submit to doat up╌on this Womans Eyes, Damme why shou'd I submit to doat upon this Wamans Eyes; to Womans Eyes.</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Fifty Beaux expire for me, fifty Beaux, fifty Beaux ex╌pire for me, O╌gling, O╌gling, sigh╌ing; all, all, all, all the day; yet
+<pb n="4" facs="tcp:153487:4"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> yet not one, no, no, no, no not one dares be so free, tho' they let me win at play, tho' they let me win at play.</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Sure we Rakes can bet╌ter move you, sure we Rakes can better move you, see this Shape, and Leg my Dear, in one Minute more, I'll Love you than those Fops can in a year, than those Fops can in a year.</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But your Love will soon be over,</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Then you'll get a fresher Lover, come, come to Bed,</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:153487:4"/>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Leave, leave my hand, come, come, come to Bed, to Bed, to Bed, to Bed, I long t'embrace; then lends your Face, first the Hand, and then the Face, then the Brest, &amp; then the rest, &amp; then, then, then, then, then, <stage>Strikes him.</stage> The Face, </p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> s'death I've a good mind to beat you, no to vex you more I'le leave you, thus I puff you,</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:153487:5"/>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> then I'll say, how I did treat you. I'll go say I refus'd your Love to day.</p>
+            </sp>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> All will believe, all will be╌lieve I us'd you so, all will be╌lieve, all will be╌lieve, all will believe, all will believe I us'd you so; all, all, all, all, all, all, all, all, all will believe I us'd you so, all, all, all, all will believe I us'd you so.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> None will believe, none will believe you cou'd, you cou'd do so; none will believe, none will believe, none will believe you cou'd, you cou'd do so; none, none, none, none, none, none, none, none will believe I us'd you so, none, none, none, none will believe I us'd you so.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <pb n="7" facs="tcp:153487:5"/>
+            <head>A Dialogue suppos'd to be between a <hi>Eunuch</hi> Boy, and a Virgin. Sung by <hi>Bowen</hi> and Mrs. <hi>Cross</hi> in a New Play call'd <hi>Ibrahim.</hi>
+            </head>
+            <byline>Sett to Musick by Mr. <hi>Daniel Purcell.</hi>
+            </byline>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> FLy, fly from my sight, fly far a╌way, my scorn, my scorn thou'lt on╌ly Purchase by thy stay; a╌way, away, a╌way fond Fool, a╌way, a╌way, away, a╌way, fond Fool, a╌way.</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Dear, dear Angel, no, no, no, no, no, no, no, no, no, here on this place I'le root╌ted grow; those pretty, pretty, pretty, pretty Eyes have Charm'd me so, I cannot, cannot stir, I cannot, cannot, cannot, cannot goe; I cannot, cannot, cannot
+<pb n="8" facs="tcp:153487:6"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> cannot stir, I cannot, cannot, cannot, cannot goe, I cannot, cannot, cannot, cannot goe.</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Thou silly, silly Creature be advis'd, and do not, do not stay to be despis'd; by all, all, all my actions thou may'st see, my heart can spare no room for thee:</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> why, why dost thou hate me? ah! confess, thou sweet dis╌poser of my Joys?</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> The Reason is, I on╌ly guess, by something in thy Face and Voice, that thou, that thou art not made like o╌ther Boys;</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Why I can Kiss, and I can Play, and tell a thousand
+<pb n="9" facs="tcp:153487:6"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> pret╌ty Tales, and I can Sing the live╌long Day, if a╌ny other Talent fails, can Sing, can Sing the live╌long Day, if a╌ny other Talent fails, can Sing, can Sing the live╌long Day, if a╌ny other Talent fails.</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Boast not thy Musick, for I fear, that Sing╌ing gift has cost thee dear, each war╌bling Lin╌net on the Tree, has far a better, better, better Fate, a better Fate than thee; for thy life hap╌py pleasures prove, as they can Sing so they can Love.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="10" facs="tcp:153487:7"/>CHORUS. She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> No, no, no poor Boy, No, no, no poor Boy; No, no, no not I; (Pish) (Pish) Oh fye; no, no not I; (Pish) (Pish) Oh fye; no, no not I; You know, you know, you know you lye.</p>
+            </sp>
+            <sp>
+               <speaker>CHORUS. He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Why so can I, why, why cannot I, why cannot I, pray do but try, pray do but try, do but try, do but try, pray, pray do but try, do but try, do but try, do but try, pray, pray do but try, I know no reason, no rea╌son why, I know no reason, no rea╌son why.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <pb n="11" facs="tcp:153487:7"/>
+            <head>A Dialogue Sung on <hi>Hob</hi>'s Wedding, at a Country <hi>Wake.</hi>
+            </head>
+            <byline>Sett to Musick by Mr. <hi>John Eccles.</hi>
+            </byline>
+            <sp>
+               <speaker>Mr. <hi>Wiltshire.</hi>
+               </speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> COme <hi>Hodge,</hi> come <hi>Robin,</hi> come <hi>Robin,</hi> come <hi>John,</hi> come <hi>Katy,</hi> come <hi>Katy,</hi> come <hi>Jenny,</hi> come <hi>Joan,</hi> make hast all and don, your best Clothes on, for <hi>Hob</hi> must be Married, be Married a non;</p>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> For I must be Married, for I must be Married, be Married, be Married, be Married a╌non.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> For <hi>Hob, Hob</hi> must be Married, for <hi>Hob</hi> must be Married, for <hi>Hob</hi> must be Married, for <hi>Hob</hi> must be Married, be Married, be Married a non.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> For <hi>Hob</hi> must be Married, for <hi>Hob</hi> must be Married, for <hi>Hob</hi> must be Married, for <hi>Hob</hi> must be Married, be Married, be Married, be Married a non.</p>
+            </sp>
+            <sp>
+               <speaker>Wiltshire.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Let the Plough to day stand still, and Maids go not to the Mill; but hast to the
+<pb n="12" facs="tcp:153487:8"/> Wedding, but hast to the Wedding, no matter for bidding, no matter for bidding,</p>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> you may all come, you may all come, you may all come that will.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> You may all come, you may all come, you may all come, you may all come, you may all, all, all, all, all, all, all, you may all come that will.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> You may all, you may all, come, you may all come, you may all come you may all, all, all all, all, all all, all, all, all may come that will.</p>
+            </sp>
+            <sp>
+               <speaker>Wiltshire.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> There's Pudding and such good Cheer, and a Barrel of good strong Beer, and the Fidler shall play, and we'll trip it all day; But at Night gadsookers stand Clear, stand Clear, but at Night gadsookers stand Clear.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <pb n="13" facs="tcp:153487:8"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But at Night gadsookers stand Clear, gadsookers stand Clear, gadsookers stand Clear, gad╌sookers stand Clear, at Night stand Clear, stand Clear, at Night gad╌sookers stand Clear.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But at Night, at Night gad╌sookers stand Clear, gad╌sookers stand Clear, gadsookers stand Clear, at Night, at Night stand Clear, stand Clear, at Night gadsookers stand Clear.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mrs.</hi> Hudson.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Here's I, and <hi>Katy</hi> and <hi>Sue,</hi> we're all as ready as you; but <hi>Mary</hi> does say she'l not Marry to day;</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> By my troth I wonot, I wonot, I wonot, by my troth I wonnot come too.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> She wonot come too, she wonot come too, she wonot come too, she wonot come too, by my troth she wonot come too.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> She wonot come too, she wonont come too, she wonot come too, she wonot come too, she wonot come too.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:153487:9"/>
+               <speaker>
+                  <hi>Mrs.</hi> Hudson.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Come <hi>Mary,</hi> come, come, come, come, come, come, come, come <hi>Mary,</hi> come, come, come, come, come, come, come, come <hi>Mary</hi> you must be rul'd; then give him your Hand, then give him your Hand, and say you'r well mov'd, and say you'r well mov'd.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr.</hi> Wiltshire.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Come <hi>Mary,</hi> come, come, come <hi>Mary,</hi> come, come, come <hi>Mary,</hi> come, come, come <hi>Mary,</hi> come <hi>Mary</hi> you must be rul'd; then give him your Hand, and say you'r well mov'd, and say you'r well mov'd, well mov'd.</p>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Don't think, don't think, don't think that <hi>Hob</hi> will be fool'd.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> don't think, don't think, don't think, don't think, that <hi>Hob</hi> that <hi>Hob</hi> will be fool'd.</p>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> don't think, don't think, don't think, don't think, that <hi>Hob,</hi> that <hi>Hob</hi> will be fool'd.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Come, come then, come, come then Come, come then to Church; come, come then to Church, and let's Wedd.</p>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> And af╌ter
+<pb n="15" facs="tcp:153487:9"/> that we'll to Bed, to Bed, and after that we'll to Bed.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible: missing" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Yet I cannot, I cannot, but Cry, to think I shall dye, when I part with my Maiden╌head; I cannot but cannot but Cry, to think I shall dye when I part with my Mai╌den╌head.</p>
+            </sp>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> She cannot but cry to think she shall dye, she cannot but cry to think she shall dye, she cannot but cry to think she shall dye, when she parts with her Mai╌den╌head; she cannot but cry to think she shall dye, she cannot but cry to think she shall dye, she
+<pb n="16" facs="tcp:153487:10"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> cannot but cry to think she shall dye, to think she shall dye when she parts, when she dye she cannot but cry to think she shall dye, to think she shall dye when she parts with her Maiden╌head.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> She cannot, she cannot but cry to think she shall dye, she cannot but cry. to think she shall dye, she cannot but cry, but cry, when she parts with her Maiden╌head; she cannot, she cannot but cry to think she shall dye, she cannot but cry to think she shall
+<pb n="16" facs="tcp:153487:10"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> dye she cannot but cry to think she shall dye, to think she shall dye when she parts with her Maiden╌head.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <head>A Drunken Dialogue in <hi>(Love</hi>'s <hi>a Jest)</hi> between Mr. <hi>Reading</hi> and M. <hi>Lee,</hi> in the Second Act.</head>
+            <byline>Sett to Musick by Mr. <hi>John Eccles.</hi>
+            </byline>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> SHou'd I not lead a happy life, <hi>(hick)</hi> shou'd I not, shou'd I not, shou'd I not lead a happy life, <hi>(hick)</hi> were but my Bottle like my Wife, were but my Bottle like my Wife; <hi>(hick)</hi> my Bottle empties when I Swill, my Bottle empties when I Swill; <hi>(hick)</hi>
+                  <pb n="17" facs="tcp:153487:10"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But my Wife swells up, but my Wife swells up, but my Wife, my Wife swells up when we Bill; <hi>(hick)</hi> wou'd when I Drink, wou'd when I Drink my Bottle fill; and when I Kiss, and when I Kiss my Wife not swell, all wou'd be well; I wou'd so <hi>(hick)</hi> so swill, I wou'd so, <hi>(hick)</hi> so fill, I wou'd so, <hi>(hick)</hi> so Bill, that dai╌ly, dai╌ly I wou'd spend my life; Drinking, Filling, Hugging, Billing, my merry, merry, merry, merry, merry, merry, merry, merry Bottle and my Wife.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:153487:11"/>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Still at your Pot you drunken Sot, you drunken, drunken, drunken Sott; you till I come will never go home, and when you're there, you Curse and Swear, you Curse, you Ban, you Damm and Swear, then prove a Bed a lump of lead; will you never leave your beastly Pott, you odious filthy drunken Sott.</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Do you think you Scold I'le be controul'd, <hi>(hick)</hi> do you think you Scold I'le be con╌troul'd; no more be said, no more be said, or at your head as I'me a Sott, <hi>(hick)</hi>
+                  <pb n="19" facs="tcp:153487:11"/> souce flyes the Pott; but first I think I'le save the Drink, but first I think I'le save the Drink;</p>
+               <stage>Drinks.</stage>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Hold leave a sup, don't, don't drink all, all up;</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Here taste, taste, and know why, why, why I'le not go.</p>
+               <stage>Gives her the Pott.</stage>
+            </sp>
+            <stage>She Drinks.</stage>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> How sweet, how sweet oh! how it Cheers and warms my Heart; oh! dear methinks, me╌thinks I suck my Mother, here's to you my Love, have 'tother Quart and then,</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> what then,</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and then a╌nother.</p>
+            </sp>
+            <stage>She Drinks again.</stage>
+            <sp>
+               <pb n="20" facs="tcp:153487:12"/>
+               <speaker>CHORUS.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Come now we're friends, come now we're friends, and all, all, all is right, and all, all, all is right; drink, drink, drink, drink all day, but love, love, love at night, drink, drink, drink, drink all day, drink, drink, drink, drink all day, drink, drink, drink, drink all day but love, love, love at night, drink. Love, love, love at night, but love, love, love at night.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Come now we're friends, come now we're friends and all, all, all is right, drink, drink, drink, drink all day, drink, drink, drink, drink all day but love at night, drink, drink, drink, drink all day, drink, drink, drink, drink all day, drink, drink, drink, drink all day but love at night. day but love at night, but love, love, love at night.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <pb n="21" facs="tcp:153487:12"/>
+            <head>A Dialogue in <hi>(Love</hi>'s <hi>a Jest)</hi> between a Boy and a Girl in the Fourth Act.</head>
+            <byline>Sett to Musick by Mr. <hi>John Eccles.</hi>
+            </byline>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> PRetty, pretty Miss, pretty, pretty, pretty, pretty, pretty, pretty Miss let us talk, let us talk to╌gether; I play truant, I play truant, I play truant, to come hither, to go with you up and down, I'de leave all the Boys in town, I'de leave all, all, all, all, I'de leave all, all, all, all, I'de leave all, I'de leave all the Boys in town. Boys in town.</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> My deary, deary, deary <hi>Jemmy, Jemmy</hi> how d'ye do, how d'ye do, how d'ye do; I'de leave all our Girles for you, nay my fi╌nest, fi╌nest Ba╌by,
+<pb n="22" facs="tcp:153487:13"/> nay my fi╌nest Ba╌by too.</p>
+               <stage>She flings her Baby away.</stage>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Come let us play, let us play at Man and Wife, come come let us play, let us play at Man and Wife.</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Fye, fye, fye, fye, fye, fye, fye, fye, fye, fye you know, that's full of strife, you know that's full of strife, fye, fye, fye, fye, fye, fye that's full of strife.</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Come then let us Kiss, let us Kiss and hug, let's Kiss and hug, let's Kiss and hug each other, let's Kiss and hug each other, like my Father and my Mother, like my Father and my Mother.</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Ay that's better, that's better, that's better,
+<pb n="23" facs="tcp:153487:13"/> come be╌gin, come begin, when you'r out I'le put you in, when you'r out I'le put you in.</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Pray, pray be not so shy, be not so shy my deary.</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Stand off, stand off, keep your distance, keep your distance or I vow, I vow I'le tear ye.</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Are thy Bubbies a coming, thy Bubbies, thy Bubbies, thy Bubbies a coming, Child; Let me see, let me see, let me see, I must Kiss, I must Kiss. Oh! no, no, oh! pray, pray, fye, fye, fye, no, no, no, no, no,
+<pb n="24" facs="tcp:153487:14"/> no you shan't.</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> There's no body sees us then why do you fear, now a lit╌tle more good <hi>Betty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Fye, fye, you make me Blush I swear, yet me╌thinks 'tis very Pretty, well, we'll Marry e're 'tis long,</p>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> You'r too little,</p>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> You'r too young.</p>
+            </sp>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Oh! I cannot, I cannot, I cannot tarry long; Oh! I cannot, I cannot tarry long; quickly, then quickly, then quickly, then quickly, then quickly,
+<pb n="25" facs="tcp:153487:14"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> then let us Mar╌ry; oh! I cannot, I wonnot, I cannot, I wonnot, I cannot tarry long, I cannot, I wonnot, I cannot, I wonnot, I cannot, I wonnot tarry long.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Oh! I cannot, I cannot, I cannot, I cannot, I cannot tarry long; oh! I cannot, I cannot, I cannot, I cannot tarry long; quickly, then quickly, then quickly,
+<pb n="25" facs="tcp:153487:14"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> then let us Mar╌ry; oh! I cannot, I wonnot, I cannot tarry long, I cannot, I wonnot, I cannot, I wonnot, I cannot, I wonnot tarry long.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <head>A Song in <hi>(Love</hi>'s <hi>a Jest).</hi>
+            </head>
+            <byline>Set by Mr. <hi>Ackeroyd.</hi>
+            </byline>
+            <byline>Sung by Mrs. <hi>Hudson.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> FRom <hi>Aberdeen</hi> to <hi>Edinbrough</hi> I trudg'd it with my Bearn; And thence to <hi>London</hi> Town did goe, some News of my Love to learn; And thence to <hi>Lon╌don</hi> Town did goe, some News of my Love to learn, some News of my Love to learn.</p>
+            <lg>
+               <l>But now the Bonny Lad is come,</l>
+               <l>With Royal <hi>Willy</hi> here;</l>
+               <l>So I'se e'en gang contented home,</l>
+               <l>Sin I have got my Dear.</l>
+            </lg>
+            <lg n="3">
+               <pb n="26" facs="tcp:153487:15"/>
+               <head>III.</head>
+               <l>I for my <hi>Sawny</hi> Wove a Plad,</l>
+               <l>No Laird can better wear;</l>
+               <l>I'se Knit a Bonnet for the Lad,</l>
+               <l>And other goodly Geer.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Our canny Loons and Lasses now</l>
+               <l>Mun all be bly the and dance;</l>
+               <l>For <hi>Sawny</hi> says, we'se force to bow</l>
+               <l>The mickle De'el of <hi>France.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>A Song Sett by Mr. <hi>Moses Snow,</hi> B. M.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> WHat diff'ring forms does Love obtrude, to vex an Am'rous mind; to be fa╌miliar's to be Rude, to be reserv'd unkind: Women, like Victors, do pro╌ceed, who o╌thers Rights in╌vade, and in vain Tryumph proud╌ly lead the cap╌tives they have made.</p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Thus Lovers in uncertainty,</l>
+               <l>Like Mariners are tost;</l>
+               <l>Who tho' they scape a Storm at Sea,</l>
+               <l>Are Wrackt upon the Coast:</l>
+               <l>Then since their Treacherous Arts I see,</l>
+               <l>In vain are all their Charms;</l>
+               <l>My Native freedom ne'er shall be</l>
+               <l>Subdu'd to forraign Arms.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
